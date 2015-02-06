@@ -1,4 +1,4 @@
-![dac-logo](assets/dac-logo.jpg) ![hackerx-logo](assets/hackerx-logo.png)
+![dac-logo](dac-logo.jpg) ![hackerx-logo](hackerx-logo.png)
 
 # HackerX Challenge
 
@@ -12,7 +12,7 @@ That's it.
 
 For example, you could crawl a used car site and collect the summary details of each listing, then store those results as json to file.
 
-![screenshot-01](assets/screenshot-01.png)
+![screenshot-01](screenshot-01.png)
 
 ## Requirements
 
