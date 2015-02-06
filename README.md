@@ -22,8 +22,9 @@ Do note that anything submitted is assumed to be [MIT](http://opensource.org/lic
 
 ## How to Participate
 
-* For this repository
+* Fork this repository
 * Write your crawler/scraper
+* Save your code to the `code/` directory
 * Commit your code
 * Submit a pull request
 
