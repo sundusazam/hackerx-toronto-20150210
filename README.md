@@ -6,9 +6,7 @@ The goal of this challenge is to write a basic [web crawler](http://en.wikipedia
 
 The target web site doesn't really matter, but you should select a site that contains a search function, and has paged results.
 
-You will have to crawl these pages and scrape the results; which you will then 
-
-That's it.
+Crawl. Scrape. Save. That's it!
 
 For example, you could crawl a used car site and collect the summary details of each listing, then store those results as json to file.
 
