@@ -11,7 +11,7 @@ namespace WebCrawlerScraper
 {
    class WebScraper
    {
-      public static string getSourceCode(string url)
+      public static string GetSourceCode(string url)
       {
          HttpWebRequest req = (HttpWebRequest)WebRequest.Create(url);
          HttpWebResponse resp = (HttpWebResponse)req.GetResponse();
