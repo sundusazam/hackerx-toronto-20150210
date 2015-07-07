@@ -115,7 +115,7 @@ namespace WebCrawlerScraper
          //string url = System.Console.ReadLine();
 
          string url = "http://www.autotrader.ca/cars/honda/civic/qc/lasalle/?prx=100&prv=Quebec&loc=H8N0C5&trans=Automatic&body=Sedan&fuel=Gasoline&sts=New-Used&pRng=%2c10000&hprc=True&wcp=True";
-         string sourceCode = WebScraper.getSourceCode(url);
+         string sourceCode = WebScraper.GetSourceCode(url);
 
          var webGet = new HtmlWeb();
          var doc = webGet.Load(url);
